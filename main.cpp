@@ -18,5 +18,6 @@ int main(int argc, char* argv[])
         cout << i << endl;
     }
     cout << argc << endl;
+    cout << "Test mod" << endl;
     return 0;
 }
